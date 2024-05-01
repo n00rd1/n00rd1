@@ -75,7 +75,7 @@ Now I live in Almaty, Kazakhstan, but I am ready to consider moving.
 
 ### Work Experience
 
-#### *[Full-stack]* RocketS (12.2023 - 03.2024)
+#### *[Full-stack]* RocketS (12.2023 - 05.2024)
 
 - **CRM System Optimization**: Enhanced and optimized business-critical features for CRM systems like Bitrix and AMO CRM.
 - **Leadership in Code Standards**: Initiated and implemented a code creation regulation to transition from poor code practices to high-quality standards; trained staff on proper coding techniques and best practices.
