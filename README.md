@@ -35,9 +35,9 @@ Now I live in Almaty, Kazakhstan, but I am ready to consider moving.
 [<img align="left" alt="npm" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/npm/npm.png" />][linkedIn]
 [<img align="left" alt="Postman" width="26px" src="https://raw.githubusercontent.com/github/explore/08fb5e541701424029515300b5b1e66aa2fbd68a/topics/postman/postman.png" />][linkedIn]
 [<img align="left" alt="Terminal" width="26px" src="https://raw.githubusercontent.com/github/explore/d92924b1d925bb134e308bd29c9de6c302ed3beb/topics/terminal/terminal.png" />][linkedIn]
-[<img align="left" alt="Bitrix24" width="26px" src="https://github.com/andrey-tech/bitrix24-api-php/raw/master/assets/bitrix24-logo.png" />][linkedIn]
+[<img align="left" alt="Bitrix24" width="26px" src="https://play-lh.googleusercontent.com/80ZGsLZ--6HCnPhbv1aCGBcdeEaz8q0VgDcfdc5ZUFyhUp3eklEo7bX_TFz8tBBiWwY" />][linkedIn]
 
-[<img align="left" alt="AmoCRM" width="26px" src="https://repository-images.githubusercontent.com/264145465/b2833d00-9812-11ea-99da-1c705906fe9b" />][linkedIn]
+[<img align="left" alt="AmoCRM" width="26px" src="https://ta-relay-public-files-prod.s3.us-east-2.amazonaws.com/icp/product_images/ee884cb177dd51ef3ac42327ab352233.png" />][linkedIn]
 [<img align="left" alt="JetBrains" width="26px" src="https://avatars.githubusercontent.com/u/878437?s=200&v=4" />][linkedIn]
 
 <br />
