@@ -26,17 +26,14 @@ Now I live in Almaty, Kazakhstan, but I am ready to consider moving.
 [<img align="left" alt="CSS" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" />][linkedIn]
 [<img align="left" alt="Bootstrap" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/bootstrap/bootstrap.png" />][linkedIn]
 [<img align="left" alt="jQuery" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/jquery/jquery.png" />][linkedIn]    
-
 [<img align="left" alt="JSON" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/json/json.png" />][linkedIn]
 [<img align="left" alt="AJAX" width="26px" src="https://raw.githubusercontent.com/github/explore/8be26d91eb231fec0b8856359979ac09f27173fd/topics/ajax/ajax.png" />][linkedIn]
 [<img align="left" alt="xml" width="26px" src="https://raw.githubusercontent.com/github/explore/05a6f4c574a32b6b2f04c2e589f6c82d9df46a5d/topics/xml/xml.png" />][linkedIn]
 [<img align="left" alt="Markdown" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/markdown/markdown.png" />][linkedIn]
-
 [<img align="left" alt="npm" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/npm/npm.png" />][linkedIn]
 [<img align="left" alt="Postman" width="26px" src="https://raw.githubusercontent.com/github/explore/08fb5e541701424029515300b5b1e66aa2fbd68a/topics/postman/postman.png" />][linkedIn]
 [<img align="left" alt="Terminal" width="26px" src="https://raw.githubusercontent.com/github/explore/d92924b1d925bb134e308bd29c9de6c302ed3beb/topics/terminal/terminal.png" />][linkedIn]
 [<img align="left" alt="Bitrix24" width="26px" src="https://play-lh.googleusercontent.com/80ZGsLZ--6HCnPhbv1aCGBcdeEaz8q0VgDcfdc5ZUFyhUp3eklEo7bX_TFz8tBBiWwY" />][linkedIn]
-
 [<img align="left" alt="AmoCRM" width="26px" src="https://ta-relay-public-files-prod.s3.us-east-2.amazonaws.com/icp/product_images/ee884cb177dd51ef3ac42327ab352233.png" />][linkedIn]
 [<img align="left" alt="JetBrains" width="26px" src="https://avatars.githubusercontent.com/u/878437?s=200&v=4" />][linkedIn]
 
@@ -55,7 +52,6 @@ Now I live in Almaty, Kazakhstan, but I am ready to consider moving.
 [<img align="left" alt="GitHub" width="26px" src="https://pbs.twimg.com/profile_images/1372304699601285121/5yBS6_3F_400x400.jpg" />][linkedIn]
 [<img align="left" alt="GitLab" width="26px" src="https://raw.githubusercontent.com/github/explore/3f5c1e7d83bce81b0872ac88d46532515bdc88ef/topics/gitlab/gitlab.png" />][linkedIn]
 [<img align="left" alt="Docker" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/docker/docker.png" />][linkedIn]
-
 [<img align="left" alt="Kubernetes" width="26px" src="https://raw.githubusercontent.com/github/explore/01ea2a586e5da744792d0ccfce2f68b861f29301/topics/kubernetes/kubernetes.png" />][linkedIn]
 [<img align="left" alt="Linux" width="26px" src="https://raw.githubusercontent.com/github/explore/56a826d05cf762b2b50ecbe7d492a839b04f3fbf/topics/linux/linux.png" />][linkedIn]
 [<img align="left" alt="Windows" width="26px" src="https://raw.githubusercontent.com/github/explore/379d49236d826364be968345e0a085d044108cff/topics/windows/windows.png" />][linkedIn]
