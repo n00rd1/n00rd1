@@ -1,4 +1,4 @@
-## Hello, I'm Arsenii Mukhamedshin
+## Hello, I'm Arsenii M.
 
 ### Middle PHP Developer (Backend/Full-stack).
 
@@ -52,7 +52,7 @@ Now I live in Almaty, Kazakhstan, but I am ready to consider moving.
 <br />
 
 [<img align="left" alt="Git" width="32px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" />][linkedIn]
-[<img align="left" alt="GitHub" width="26px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" />][linkedIn]
+[<img align="left" alt="GitHub" width="26px" src="https://pbs.twimg.com/profile_images/1372304699601285121/5yBS6_3F_400x400.jpg" />][linkedIn]
 [<img align="left" alt="GitLab" width="26px" src="https://raw.githubusercontent.com/github/explore/3f5c1e7d83bce81b0872ac88d46532515bdc88ef/topics/gitlab/gitlab.png" />][linkedIn]
 [<img align="left" alt="Docker" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/docker/docker.png" />][linkedIn]
 
@@ -112,7 +112,7 @@ Now I live in Almaty, Kazakhstan, but I am ready to consider moving.
 - **Email**: [mukhamedshin13@gmail.com](mailto:mukhamedshin13@gmail.com)
 - **Phone [KZ]**: [+7 707 391 33 36](tel:+77073913336)
 
-[<img align="left" alt="GitHub" width="26px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" />][github]
+[<img align="left" alt="GitHub" width="26px" src="https://pbs.twimg.com/profile_images/1372304699601285121/5yBS6_3F_400x400.jpg" />][github]
 [<img align="left" alt="Telegram" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/telegram/telegram.png" />][telegram]
 [<img align="left" alt="LinkedIn" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/aa/LinkedIn_2021.svg/200px-LinkedIn_2021.svg.png" />][linkedIn]
 
