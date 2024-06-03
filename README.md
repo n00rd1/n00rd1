@@ -75,12 +75,19 @@ Now I live in Almaty, Kazakhstan, but I am ready to consider moving.
 
 ### Work Experience
 
-#### *[Full-stack]* RocketS (12.2023 - 05.2024)
+#### *[Middle Full-stack]* TAS Group (05.2024 - Present)
+
+- **System Development and Optimization**: Lead the development and enhancement of various systems, including internal document management and API development. Created and implemented online-oriented systems, such as electronic queue systems, significantly improving customer service efficiency.
+- **Business Logic Analysis and Implementation**: Analyzed complex business logic and implemented optimized solutions to streamline operations and enhance system capabilities.
+- **Code Standards and Legacy Code Support**: Developed and implemented coding standards, optimized and maintained legacy code. Conducted comprehensive code reviews and trained the team in advanced development practices, resulting in significant improvements in code quality and system performance.
+- **Cross-functional Collaboration**: Worked closely with different departments to ensure the seamless integration of new systems and features, improving overall business processes and operational efficiency.
+
+#### *[Middle Full-stack]* RocketS (12.2023 - 05.2024)
 
 - **CRM System Optimization**: Enhanced and optimized business-critical features for CRM systems like Bitrix and AMO CRM.
 - **Leadership in Code Standards**: Initiated and implemented a code creation regulation to transition from poor code practices to high-quality standards; trained staff on proper coding techniques and best practices.
 - **Scripting and API Integration**: Authored scripts for transferring cloud-based versions to on-premise solutions and analyzed REST API (Bitrix) operations, with a basic study of AMO CRM API interaction principles.
-- 
+ 
 #### *[Full-stack]* Gazprombank (03.2023 - 11.2023)
 
 - Designed user interfaces and UX with advanced JavaScript (ExtJS), improving client interaction and satisfaction.
