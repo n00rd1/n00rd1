@@ -1,130 +1,102 @@
-## Hello, I'm Arsenii M.
+## Hi, I'm Arsenii M.
 
-### Middle PHP Developer (Backend/Full-stack).
+### Senior PHP Developer (Backend / Full-stack)
 
-Full-stack backend developer with a strong emphasis on PHP and JavaScript, proficient in both backend and frontend
-development. Recognized for my ability to quickly master new technologies and implement innovative solutions.
-Demonstrates strong leadership skills and a commitment to excellence in a dynamic team environment. Fluent in English (
-B2 level), capable of effective communication in international settings, driving projects to success.. At my last job, I was rated at a
-Middle+/Senior- level with several subordinates.
+Full-stack developer focused on PHP and JavaScript. I quickly master new tech, implement effective solutions, and have solid leadership experience. I maintain high code quality, optimize business logic, and automate processes. English: B2.
 
-Now I live in Almaty, Kazakhstan, but I am ready to consider moving.
+Based in Almaty, Kazakhstan. Open to relocation.
 
 ---
 
-### Skills and Tools
+### Skills & Tools
 
-[<img align="left" alt="PHP" width="26px" src="https://raw.githubusercontent.com/github/explore/ccc16358ac4530c6a69b1b80c7223cd2744dea83/topics/php/php.png" />][linkedIn]
-[<img align="left" alt="Symphony" width="26px" src="https://raw.githubusercontent.com/github/explore/d0c5a5e31e1776ad62379ef5f6b703bcf107d3a3/topics/symfony/symfony.png" />][linkedIn]
-[<img align="left" alt="JavaScript" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" />][linkedIn]
-[<img align="left" alt="Node.js" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png" />][linkedIn]
+![PHP](https://raw.githubusercontent.com/github/explore/ccc16358ac4530c6a69b1b80c7223cd2744dea83/topics/php/php.png)
+![Laravel](https://raw.githubusercontent.com/github/explore/3d490d36d5be0f783e53a0fbbff206c95f9f7c1b/topics/laravel/laravel.png)
+![Symfony](https://raw.githubusercontent.com/github/explore/d0c5a5e31e1776ad62379ef5f6b703bcf107d3a3/topics/symfony/symfony.png)
+![JavaScript](https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png)
+![Node.js](https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png)
+![Go](https://raw.githubusercontent.com/github/explore/42eaf65f7f21ad9d9024f65c18c0b7b251c42ec4/topics/go/go.png)
+![Bitrix24](https://play-lh.googleusercontent.com/80ZGsLZ--6HCnPhbv1aCGBcdeEaz8q0VgDcfdc5ZUFyhUp3eklEo7bX_TFz8tBBiWwY)
+![AmoCRM](https://ta-relay-public-files-prod.s3.us-east-2.amazonaws.com/icp/product_images/ee884cb177dd51ef3ac42327ab352233.png)
+![MySQL](https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png)
+![PostgreSQL](https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/postgresql/postgresql.png)
+![MongoDB](https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mongodb/mongodb.png)
+![Git](https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png)
+![Docker](https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/docker/docker.png)
+![Kubernetes](https://raw.githubusercontent.com/github/explore/01ea2a586e5da744792d0ccfce2f68b861f29301/topics/kubernetes/kubernetes.png)
+![Linux](https://raw.githubusercontent.com/github/explore/56a826d05cf762b2b50ecbe7d492a839b04f3fbf/topics/linux/linux.png)
+![HTML](https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png)
+![CSS](https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png)
+![Bootstrap](https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/bootstrap/bootstrap.png)
+![jQuery](https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/jquery/jquery.png)
+![SQL](https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sql/sql.png)
+![Postman](https://raw.githubusercontent.com/github/explore/08fb5e541701424029515300b5b1e66aa2fbd68a/topics/postman/postman.png)
+![JetBrains](https://avatars.githubusercontent.com/u/878437?s=200&v=4)
 
-<br />
-<br />
-<br />
-
-[<img align="left" alt="HTML" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />][linkedIn]
-[<img align="left" alt="CSS" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" />][linkedIn]
-[<img align="left" alt="Bootstrap" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/bootstrap/bootstrap.png" />][linkedIn]
-[<img align="left" alt="jQuery" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/jquery/jquery.png" />][linkedIn]
-[<img align="left" alt="JSON" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/json/json.png" />][linkedIn]
-[<img align="left" alt="AJAX" width="26px" src="https://raw.githubusercontent.com/github/explore/8be26d91eb231fec0b8856359979ac09f27173fd/topics/ajax/ajax.png" />][linkedIn]
-[<img align="left" alt="xml" width="26px" src="https://raw.githubusercontent.com/github/explore/05a6f4c574a32b6b2f04c2e589f6c82d9df46a5d/topics/xml/xml.png" />][linkedIn]
-[<img align="left" alt="Markdown" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/markdown/markdown.png" />][linkedIn]
-[<img align="left" alt="npm" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/npm/npm.png" />][linkedIn]
-[<img align="left" alt="Postman" width="26px" src="https://raw.githubusercontent.com/github/explore/08fb5e541701424029515300b5b1e66aa2fbd68a/topics/postman/postman.png" />][linkedIn]
-[<img align="left" alt="Terminal" width="26px" src="https://raw.githubusercontent.com/github/explore/d92924b1d925bb134e308bd29c9de6c302ed3beb/topics/terminal/terminal.png" />][linkedIn]
-[<img align="left" alt="Bitrix24" width="26px" src="https://play-lh.googleusercontent.com/80ZGsLZ--6HCnPhbv1aCGBcdeEaz8q0VgDcfdc5ZUFyhUp3eklEo7bX_TFz8tBBiWwY" />][linkedIn]
-[<img align="left" alt="AmoCRM" width="26px" src="https://ta-relay-public-files-prod.s3.us-east-2.amazonaws.com/icp/product_images/ee884cb177dd51ef3ac42327ab352233.png" />][linkedIn]
-[<img align="left" alt="JetBrains" width="26px" src="https://avatars.githubusercontent.com/u/878437?s=200&v=4" />][linkedIn]
-
-<br />
-<br />
-<br />
-
-[<img align="left" alt="SQL" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sql/sql.png" />][linkedIn]
-[<img align="left" alt="MySQL" width="32px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png" />][linkedIn]
-[<img align="left" alt="PostgreSQL" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/postgresql/postgresql.png" />][linkedIn]
-[<img align="left" alt="MongoDB" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mongodb/mongodb.png" />][linkedIn]
-
-<br />
-<br />
-<br />
-
-[<img align="left" alt="Git" width="32px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" />][linkedIn]
-[<img align="left" alt="GitHub" width="26px" src="https://pbs.twimg.com/profile_images/1372304699601285121/5yBS6_3F_400x400.jpg" />][linkedIn]
-[<img align="left" alt="GitLab" width="26px" src="https://raw.githubusercontent.com/github/explore/3f5c1e7d83bce81b0872ac88d46532515bdc88ef/topics/gitlab/gitlab.png" />][linkedIn]
-[<img align="left" alt="Docker" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/docker/docker.png" />][linkedIn]
-[<img align="left" alt="Kubernetes" width="26px" src="https://raw.githubusercontent.com/github/explore/01ea2a586e5da744792d0ccfce2f68b861f29301/topics/kubernetes/kubernetes.png" />][linkedIn]
-[<img align="left" alt="Linux" width="26px" src="https://raw.githubusercontent.com/github/explore/56a826d05cf762b2b50ecbe7d492a839b04f3fbf/topics/linux/linux.png" />][linkedIn]
-[<img align="left" alt="Windows" width="26px" src="https://raw.githubusercontent.com/github/explore/379d49236d826364be968345e0a085d044108cff/topics/windows/windows.png" />][linkedIn]
-
-<br />
-<br />
-<br />
-
-[<img align="left" alt="c" width="26px" src="https://raw.githubusercontent.com/github/explore/f3e22f0dca2be955676bc70d6214b95b13354ee8/topics/c/c.png" />][linkedIn]
-[<img align="left" alt="cpp" width="26px" src="https://raw.githubusercontent.com/github/explore/180320cffc25f4ed1bbdfd33d4db3a66eeeeb358/topics/cpp/cpp.png" />][linkedIn]
-[<img align="left" alt="lua" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/lua/lua.png" />][linkedIn]
-
-<br />
-<br />
-<br />
 
 ---
 
-### Work Experience
+### Experience
 
-#### *[Middle Full-stack]* TAS Group (05.2024 - Present)
+#### **TAS Group** (05.2024 – Present) — *Senior Full-stack (independent)*
 
-- **System Development and Optimization**: Lead the development and enhancement of various systems, including internal document management and API development. Created and implemented online-oriented systems, such as electronic queue systems, significantly improving customer service efficiency.
-- **Business Logic Analysis and Implementation**: Analyzed complex business logic and implemented optimized solutions to streamline operations and enhance system capabilities.
-- **Code Standards and Legacy Code Support**: Developed and implemented coding standards, optimized and maintained legacy code. Conducted comprehensive code reviews and trained the team in advanced development practices, resulting in significant improvements in code quality and system performance.
-- **Cross-functional Collaboration**: Worked closely with different departments to ensure the seamless integration of new systems and features, improving overall business processes and operational efficiency.
+- Lead developer on backend and integrations; grew from Middle+ to Senior-.
+- Design and maintain corporate chatbots for workflow automation.
+- Integrate AI tools (ChatGPT API, Bitrix CoPilot), create custom AI prompts to optimize employee routines.
+- Implement and enforce clear code practices and modern code standards company-wide.
+- Develop gateway links and microservices in Go to automate and optimize integrations.
+- Study and apply multithreaded request processing for system optimization.
+- Drive technical documentation and mentor team members on best practices.
 
-#### *[Middle Full-stack]* RocketS (12.2023 - 05.2024)
+#### **RocketS** (12.2023 – 05.2024) — *Middle Full-stack → Middle+*
 
-- **CRM System Optimization**: Enhanced and optimized business-critical features for CRM systems like Bitrix and AMO CRM.
-- **Leadership in Code Standards**: Initiated and implemented a code creation regulation to transition from poor code practices to high-quality standards; trained staff on proper coding techniques and best practices.
-- **Scripting and API Integration**: Authored scripts for transferring cloud-based versions to on-premise solutions and analyzed REST API (Bitrix) operations, with a basic study of AMO CRM API interaction principles.
- 
-#### *[Full-stack]* Gazprombank (03.2023 - 11.2023)
+- Mentored a team of interns through their graduation projects, teaching them development from scratch and supporting them daily.
+- Raised internal development standards from legacy/self-taught code to modern, maintainable solutions.
+- Introduced and enforced CI/CD, mandatory OOP, and code review processes.
+- Refactored legacy code and created shared libraries for company use.
+- Taught clear code principles to ensure maintainability and knowledge transfer.
+- Acted as a mentor, identifying team members’ weak points and growth areas, and improving internal processes.
+- Promoted from confident Middle to Middle+.
 
-- Designed user interfaces and UX with advanced JavaScript (ExtJS), improving client interaction and satisfaction.
-- Authored comprehensive unit tests with PHP-unit to ensure robust application functionality.
+#### **Gazprombank** (03.2023 – 11.2023) — *Full-stack*
 
-#### *[C/Cpp Dev]* Micro-drive (02.2020-10.2022)
+- Designed UI/UX with advanced JavaScript (ExtJS).
+- Created and maintained unit tests with PHPUnit.
 
-- **Module Development**: Developed modules for the automatic testing of company boards using an in-house developed test stand.
-- **Linux Kernel Interaction**: Created modules for Linux kernel interaction based on OpenWrt.
-- **Maintenance**: Responsible for maintaining all company devices and authored documentation for the developed programs and modules.
+#### **Micro-drive** (02.2020 – 10.2022) — *C/C++ Dev*
+
+- Developed hardware testing modules for OpenWrt-based devices.
+- Built Linux kernel modules and provided full device support.
+- Authored technical documentation.
+
+---
+
+### Learning & Interests
+
+- Golang (microservices, gateway tools, multithreading).
+- AI/ML in business automation (ChatGPT, CoPilot).
+- Data visualization & dashboards (Yandex DataLens, etc.).
+- Continuous codebase optimization and security.
 
 ---
 
 ### Education
-**Plekhanov Russian Economic University, Moscow**
-- **Degree**: Bachelor of Science in Computer Science
-- **Graduation Year**: 2022
+
+**Plekhanov Russian Economic University, Moscow**  
+Bachelor of Science in Computer Science, 2022
 
 ---
 
 ### Languages
+
 - **Russian**: Native
-- **English**: Fluent (B2)
+- **English**: B2 (Fluent)
 
 ---
 
-### Contact Me
+### Contact
 
-- **Email**: [mukhamedshin13@gmail.com](mailto:mukhamedshin13@gmail.com)
-- **Phone [KZ]**: [+7 707 391 33 36](tel:+77073913336)
-
-[<img align="left" alt="GitHub" width="26px" src="https://pbs.twimg.com/profile_images/1372304699601285121/5yBS6_3F_400x400.jpg" />][github]
-[<img align="left" alt="Telegram" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/telegram/telegram.png" />][telegram]
-[<img align="left" alt="LinkedIn" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/aa/LinkedIn_2021.svg/200px-LinkedIn_2021.svg.png" />][linkedIn]
-
-[github]: https://github.com/n00rd1
-
-[telegram]: https://t.me/n00rd1
-
-[linkedIn]: https://www.linkedin.com/in/n00rd1/
+- **Email:** [mukhamedshin13@gmail.com](mailto:mukhamedshin13@gmail.com)
+- **Telegram:** [@n00rd1](https://t.me/n00rd1)
+- **LinkedIn:** [n00rd1](https://www.linkedin.com/in/n00rd1/)
+- **GitHub:** [n00rd1](https://github.com/n00rd1)
