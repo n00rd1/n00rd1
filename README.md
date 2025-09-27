@@ -1,38 +1,19 @@
-## Hi, I'm Arsenii M.
+### Senior PHP / Full-stack Developer | Backend Engineer | System Integrator
 
-### Senior PHP Developer (Backend / Full-stack)
-
-Full-stack developer focused on PHP and JavaScript. I quickly master new tech, implement effective solutions, and have solid leadership experience. I maintain high code quality, optimize business logic, and automate processes. English: B2.
-
-Based in Almaty, Kazakhstan. Open to relocation.
+💻 Backend- and Full-stack Developer with 5+ years of experience in PHP, JavaScript, and system integrations.  
+🚀 Specialized in **Bitrix24**, CRM automation, and high-load backend optimization.  
+🧩 Experienced in leading teams, mentoring juniors, and delivering business-critical solutions with AI & microservices.  
+🌍 Based in Almaty, open to relocation.
 
 ---
 
 ### Skills & Tools
 
-![PHP](https://raw.githubusercontent.com/github/explore/ccc16358ac4530c6a69b1b80c7223cd2744dea83/topics/php/php.png)
-![Laravel](https://raw.githubusercontent.com/github/explore/3d490d36d5be0f783e53a0fbbff206c95f9f7c1b/topics/laravel/laravel.png)
-![Symfony](https://raw.githubusercontent.com/github/explore/d0c5a5e31e1776ad62379ef5f6b703bcf107d3a3/topics/symfony/symfony.png)
-![JavaScript](https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png)
-![Node.js](https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png)
-![Go](https://raw.githubusercontent.com/github/explore/42eaf65f7f21ad9d9024f65c18c0b7b251c42ec4/topics/go/go.png)
-![Bitrix24](https://play-lh.googleusercontent.com/80ZGsLZ--6HCnPhbv1aCGBcdeEaz8q0VgDcfdc5ZUFyhUp3eklEo7bX_TFz8tBBiWwY)
-![AmoCRM](https://ta-relay-public-files-prod.s3.us-east-2.amazonaws.com/icp/product_images/ee884cb177dd51ef3ac42327ab352233.png)
-![MySQL](https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png)
-![PostgreSQL](https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/postgresql/postgresql.png)
-![MongoDB](https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mongodb/mongodb.png)
-![Git](https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png)
-![Docker](https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/docker/docker.png)
-![Kubernetes](https://raw.githubusercontent.com/github/explore/01ea2a586e5da744792d0ccfce2f68b861f29301/topics/kubernetes/kubernetes.png)
-![Linux](https://raw.githubusercontent.com/github/explore/56a826d05cf762b2b50ecbe7d492a839b04f3fbf/topics/linux/linux.png)
-![HTML](https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png)
-![CSS](https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png)
-![Bootstrap](https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/bootstrap/bootstrap.png)
-![jQuery](https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/jquery/jquery.png)
-![SQL](https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sql/sql.png)
-![Postman](https://raw.githubusercontent.com/github/explore/08fb5e541701424029515300b5b1e66aa2fbd68a/topics/postman/postman.png)
-![JetBrains](https://avatars.githubusercontent.com/u/878437?s=200&v=4)
-
+**Languages:** PHP 8.x, JavaScript (Node.js, ExtJS), Go, SQL, Bash  
+**Frameworks:** Laravel, Symfony, Bitrix24, AmoCRM
+**Databases:** MySQL, PostgreSQL, MongoDB  
+**DevOps:** Docker, Kubernetes, Linux, CI/CD (GitLab, GitHub Actions)  
+**Other:** REST/GraphQL APIs, Microservices, Unit Testing, Data Visualization
 
 ---
 
@@ -100,3 +81,12 @@ Bachelor of Science in Computer Science, 2022
 - **Telegram:** [@n00rd1](https://t.me/n00rd1)
 - **LinkedIn:** [n00rd1](https://www.linkedin.com/in/n00rd1/)
 - **GitHub:** [n00rd1](https://github.com/n00rd1)
+
+---
+
+### 📂 Selected Projects
+
+- **Bitrix24 ↔ МойСклад Integration** – Full sync of deals, contacts, and products with progressive batching, error handling, and mapping.  
+- **Corporate HR Bot (Bitrix24)** – Automated leave requests, remote work approvals, and reporting flows with AI features.  
+- **Microservice Gateway (Go)** – High-performance gateway for external services, using multithreading and REST APIs.  
+- **OpenWrt Device Modules (C/C++)** – Built Linux kernel modules for hardware testing, delivered full device support.
