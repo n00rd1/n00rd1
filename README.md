@@ -19,8 +19,8 @@ Fullstack engineer and tech lead with **6+ years** across the whole stack — fr
 
 - 🏗️ **Architecture owner.** I design systems end to end: service boundaries, data models, message flows, failure handling, observability.
 - ⚡ **Hands-on, not just slides.** I still write production code daily — backend, frontend, infra glue — and review everything that ships.
-- 🔌 **Integration-heavy domains.** Fintech scoring, CRM/ERP, government data services, external APIs: 70+ integrations shipped in one platform.
-- 👥 **Team builder.** Led teams from interns to middle/senior, introduced code review, CI/CD and engineering standards where there were none.
+- 🔌 **Integration-heavy domains.** Insurance, fintech scoring, CRM/ERP, government data services: 70+ integrations shipped in one platform.
+- 👥 **Engineering leader.** Head a 25-person development department; previously built teams from interns to middle/senior and introduced code review, CI/CD and standards where there were none.
 
 ---
 
@@ -41,12 +41,16 @@ Fullstack engineer and tech lead with **6+ years** across the whole stack — fr
 
 ### Experience
 
-#### **Tech Lead, Software Development** (2026 – present)
+#### **[KMLife](https://kmlife.kz/)** (08.2026 – present) — *Tech Lead / Head of Development*
 
-- Own the technical direction of the development department: architecture, stack decisions, delivery quality.
-- Design services and integrations end to end and stay hands-on in backend, frontend and infrastructure code.
-- Run code review, task decomposition and estimation; set development standards, Git flow and CI/CD for the team.
-- Mentor developers and align engineering work with business priorities and deadlines.
+Life insurance company in Kazakhstan. Leading the build of a **single unified platform** that replaces a fragmented set of legacy systems across the business.
+
+- **Lead a 25-person department:** 15 engineers, 5 business/system analysts, 5 support engineers.
+- **Own the target architecture** of a polyglot landscape — Java, Python, PHP and JavaScript services, 1C accounting, shared SQL data layer — and drive it toward one coherent product.
+- **Kafka as the integration backbone:** event-driven communication between services and legacy systems instead of point-to-point coupling.
+- Define engineering standards across stacks: code review, Git flow, CI/CD, documentation, release process.
+- Turn business requirements into a technical roadmap together with analysts; plan releases and keep delivery predictable.
+- Stay hands-on in architecture-critical code and integrations.
 
 #### **[TAS Finance / TAS Group](https://tasgroup.kz/)** (05.2024 – 08.2026) — *Senior Fullstack / Backend Developer*
 
@@ -92,6 +96,7 @@ Fintech group in Kazakhstan. Core engineer on the scoring and integration platfo
 
 ### Selected Projects
 
+- **Unified Insurance Platform** *(in progress)* — Consolidating Java, Python, PHP, JS and 1C systems of a life insurer into one product on a Kafka-based integration backbone.
 - **Fintech Scoring Platform** — Microservices collecting data from 70+ external and government sources, event-driven via Kafka, with retries, idempotency and full audit logging.
 - **CRM ↔ ERP / Inventory Sync** — Deals, contacts, companies, products and stock: field mapping, batching, retries, conflict handling.
 - **Corporate HR Automation Bot** — Leave, remote work and sick leave flows with role-based approvals and reporting.
