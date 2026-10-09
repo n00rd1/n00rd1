@@ -52,7 +52,7 @@ Life insurance company in Kazakhstan. Leading the build of a **single unified pl
 - Turn business requirements into a technical roadmap together with analysts; plan releases and keep delivery predictable.
 - Stay hands-on in architecture-critical code and integrations.
 
-#### **[TAS Finance / TAS Group](https://tasgroup.kz/)** (05.2024 – 08.2026) — *Senior Fullstack / Backend Developer*
+#### **[TAS Finance / TAS Group](https://tascredit.kz/ru/)** (05.2024 – 08.2026) — *Senior Fullstack / Backend Developer*
 
 Fintech group in Kazakhstan. Core engineer on the scoring and integration platform.
 
